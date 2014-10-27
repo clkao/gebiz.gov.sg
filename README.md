@@ -2,6 +2,8 @@
 
 ## Usage
 
+Install nodejs first, and then:
+
     % npm i -g phantomjs casperjs LiveScript
 
     % npm i cheerio csv-stringify minimist
